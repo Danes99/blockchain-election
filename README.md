@@ -1,5 +1,13 @@
 # Elections
 
+## Students - ESME Sudria - A2 IR - Promo 2022
+
+- Benjamin Becerra
+- Clément Stauner
+- Thibault Taxil
+
+## UML Diagram
+
 <img
     src='./diagram.svg'
     alt='Diagram'
