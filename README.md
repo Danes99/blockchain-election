@@ -1,6 +1,6 @@
 # Elections
 
-<img 
+<img
     src='./diagram.svg'
     alt='Diagram'
 />
