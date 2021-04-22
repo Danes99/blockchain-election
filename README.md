@@ -1,10 +1,9 @@
 # Elections
 
-## Libraries
-
-### OpenZeplin
-
-- whitelist.sol
+<img 
+    src='./diagram.svg'
+    alt='Diagram'
+/>
 
 ## Class
 
@@ -31,6 +30,7 @@
 - vote: public Participant
 - createTeam: public Participant
 - joinTeam: public Participant
+- acceptPresidency: public Participant
 
 ### Information
 
@@ -40,3 +40,9 @@
 - updateParticipant
 - hasElectionStarted
 - isElectionRunning
+
+## Updates
+
+### Libraries
+
+- OpenZeplin: whitelist.sol
